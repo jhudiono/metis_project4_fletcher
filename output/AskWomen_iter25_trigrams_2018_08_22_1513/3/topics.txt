@@ -1,0 +1,3 @@
+(0, '0.014*"im" + 0.012*"dont" + 0.011*"go" + 0.010*"think" + 0.009*"want" + 0.009*"people" + 0.009*"make" + 0.008*"would" + 0.008*"time" + 0.008*"know"')
+(1, '0.133*"askwomen" + 0.113*"reddit" + 0.094*"rule" + 0.046*"comment" + 0.042*"remove" + 0.025*"subject" + 0.023*"index" + 0.022*"message_compose" + 0.022*"faq" + 0.021*"reddiquette"')
+(2, '0.012*"dog" + 0.008*"wear" + 0.007*"buy" + 0.007*"use" + 0.006*"go" + 0.006*"eat" + 0.006*"love" + 0.006*"look" + 0.006*"day" + 0.005*"one"')

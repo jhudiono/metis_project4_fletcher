@@ -1,0 +1,5 @@
+(0, '0.021*"go" + 0.015*"time" + 0.013*"want" + 0.012*"work" + 0.012*"im" + 0.012*"would" + 0.012*"one" + 0.009*"take" + 0.009*"make" + 0.008*"know"')
+(1, '0.029*"dont" + 0.023*"people" + 0.021*"think" + 0.020*"im" + 0.013*"look" + 0.012*"say" + 0.011*"make" + 0.011*"thats" + 0.010*"really" + 0.010*"guy"')
+(2, '0.024*"dog" + 0.013*"use" + 0.011*"love" + 0.010*"buy" + 0.010*"walk" + 0.008*"eat" + 0.008*"play" + 0.007*"watch" + 0.007*"food" + 0.005*"read"')
+(3, '0.008*"answer" + 0.008*"baby" + 0.008*"question" + 0.007*"periods" + 0.007*"world" + 0.006*"animals" + 0.006*"favorite" + 0.005*"write" + 0.004*"character" + 0.004*"risk"')
+(4, '0.146*"askwomen" + 0.123*"reddit" + 0.103*"rule" + 0.051*"comment" + 0.046*"remove" + 0.027*"subject" + 0.025*"index" + 0.024*"message_compose" + 0.024*"faq" + 0.023*"reddiquette"')

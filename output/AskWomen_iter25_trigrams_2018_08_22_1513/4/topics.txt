@@ -1,0 +1,4 @@
+(0, '0.013*"wear" + 0.012*"buy" + 0.010*"eat" + 0.010*"use" + 0.010*"look" + 0.008*"clothe" + 0.007*"dress" + 0.007*"hair" + 0.006*"food" + 0.005*"size"')
+(1, '0.142*"askwomen" + 0.120*"reddit" + 0.100*"rule" + 0.050*"comment" + 0.044*"remove" + 0.026*"subject" + 0.024*"index" + 0.023*"message_compose" + 0.023*"faq" + 0.022*"reddiquette"')
+(2, '0.022*"go" + 0.016*"time" + 0.014*"work" + 0.010*"one" + 0.010*"take" + 0.009*"im" + 0.008*"dog" + 0.008*"day" + 0.006*"years" + 0.006*"back"')
+(3, '0.020*"dont" + 0.017*"im" + 0.016*"think" + 0.015*"people" + 0.013*"want" + 0.013*"know" + 0.012*"say" + 0.011*"make" + 0.011*"feel" + 0.011*"would"')

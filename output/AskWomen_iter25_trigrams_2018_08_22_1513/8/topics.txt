@@ -1,0 +1,8 @@
+(0, '0.021*"im" + 0.017*"dont" + 0.014*"think" + 0.014*"make" + 0.014*"go" + 0.013*"want" + 0.012*"people" + 0.012*"would" + 0.012*"time" + 0.011*"one"')
+(1, '0.060*"love" + 0.018*"old" + 0.015*"kid" + 0.014*"play" + 0.012*"age" + 0.011*"face" + 0.010*"baby" + 0.010*"girls" + 0.009*"mother" + 0.009*"older"')
+(2, '0.041*"women" + 0.028*"men" + 0.019*"woman" + 0.014*"man" + 0.009*"question" + 0.009*"word" + 0.009*"awesome" + 0.008*"attractive" + 0.008*"many" + 0.007*"bar"')
+(3, '0.147*"askwomen" + 0.125*"reddit" + 0.104*"rule" + 0.051*"comment" + 0.046*"remove" + 0.027*"subject" + 0.025*"index" + 0.024*"message_compose" + 0.024*"faq" + 0.023*"reddiquette"')
+(4, '0.037*"use" + 0.013*"full" + 0.012*"size" + 0.010*"name" + 0.009*"skin" + 0.008*"menopause" + 0.008*"water" + 0.008*"ring" + 0.007*"mix" + 0.007*"shop"')
+(5, '0.055*"look" + 0.027*"theyre" + 0.021*"wear" + 0.019*"usually" + 0.019*"fuck" + 0.016*"nice" + 0.016*"body" + 0.013*"sound" + 0.012*"clothe" + 0.011*"dress"')
+(6, '0.025*"show" + 0.018*"watch" + 0.018*"read" + 0.014*"girl" + 0.014*"hair" + 0.012*"book" + 0.011*"write" + 0.011*"eye" + 0.011*"beautiful" + 0.009*"test"')
+(7, '0.028*"dog" + 0.028*"day" + 0.021*"work" + 0.020*"home" + 0.017*"go" + 0.012*"walk" + 0.011*"drink" + 0.011*"every" + 0.011*"buy" + 0.011*"sleep"')

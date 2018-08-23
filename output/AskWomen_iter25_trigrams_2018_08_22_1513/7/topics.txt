@@ -1,0 +1,7 @@
+(0, '0.040*"women" + 0.027*"men" + 0.026*"look" + 0.019*"woman" + 0.013*"dress" + 0.012*"wear" + 0.011*"man" + 0.010*"body" + 0.010*"hair" + 0.009*"beautiful"')
+(1, '0.021*"theyre" + 0.018*"use" + 0.016*"thank" + 0.013*"call" + 0.010*"oh" + 0.009*"hate" + 0.009*"word" + 0.009*"lol" + 0.008*"girls" + 0.008*"ones"')
+(2, '0.012*"name" + 0.009*"camp" + 0.007*"puppy" + 0.007*"country" + 0.006*"imgur" + 0.006*"tattoo" + 0.006*"jpg" + 0.006*"interview" + 0.006*"activities" + 0.006*"drug"')
+(3, '0.035*"dog" + 0.027*"work" + 0.025*"home" + 0.019*"job" + 0.015*"walk" + 0.014*"pay" + 0.013*"money" + 0.012*"live" + 0.011*"house" + 0.008*"leave"')
+(4, '0.027*"day" + 0.014*"every" + 0.012*"go" + 0.011*"use" + 0.011*"drink" + 0.011*"sleep" + 0.010*"buy" + 0.010*"days" + 0.010*"eat" + 0.009*"usually"')
+(5, '0.020*"im" + 0.017*"dont" + 0.014*"go" + 0.013*"think" + 0.012*"want" + 0.012*"make" + 0.012*"people" + 0.011*"would" + 0.011*"know" + 0.010*"one"')
+(6, '0.148*"askwomen" + 0.125*"reddit" + 0.104*"rule" + 0.052*"comment" + 0.046*"remove" + 0.028*"subject" + 0.025*"index" + 0.024*"message_compose" + 0.024*"faq" + 0.023*"reddiquette"')

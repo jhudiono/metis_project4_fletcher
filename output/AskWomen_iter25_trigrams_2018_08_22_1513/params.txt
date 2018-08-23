@@ -1,0 +1,1 @@
+num_topics: range(3, 13)ngrams: 3ngrams_threshold: 50model: LDA onlyiterations: 25min_df: 5
