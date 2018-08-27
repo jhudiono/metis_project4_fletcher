@@ -33,12 +33,12 @@ def extract(subreddits, overwrite=False):
 
     if overwrite:
         for sr in subreddits:
-            __remove_file__(__make_filepath__(sr))
+            _remove_file_(_make_filepath_(sr))
 
     while lines:
-        [__process__(l, data_by_subreddit) for l in lines]
+        [_process_(l, data_by_subreddit) for l in lines]
         pbar.update(update_value)
-        if __check_len__(data_by_subreddit):
+        if _check_len_(data_by_subreddit):
             logging.info("Saving progress...")
             flush_to_file(data_by_subreddit)
         lines = rawfile.readlines(CHUNK)
@@ -47,10 +47,10 @@ def extract(subreddits, overwrite=False):
 
     flush_to_file(data_by_subreddit)
 
-def __check_len__(data_by_subreddit):
+def _check_len_(data_by_subreddit):
     return sum([len(posts) for posts in data_by_subreddit.values()]) > 50000
 
-def __process__(line, data_by_subreddit):
+def _process_(line, data_by_subreddit):
     try:
         jline = jloads(line)
         subreddit = jline['subreddit']
@@ -67,35 +67,37 @@ def flush_to_file(data_by_subreddit):
     jdump = json.dump
     for subreddit, posts in data_by_subreddit.items():
         # posts = [json1, json2, json3...]
-        filepath = __make_filepath__(subreddit)
+        filepath = _make_filepath_(subreddit)
         logging.info("Create/append to file at {}".format(filepath))
         with open(filepath, "a+", encoding='utf-8') as outfile:
-            [__flush_line__(p, outfile, jdump) for p in posts]
+            [_flush_line_(p, outfile, jdump) for p in posts]
 
         data_by_subreddit[subreddit].clear()
 
-def __flush_line__(post, outfile, jdump):
+def _flush_line_(post, outfile, jdump):
     jdump(post, outfile)
     outfile.write('\n')
 
-def __make_filepath__(subreddit):
+def _make_filepath_(subreddit):
     return "data/raw_data/{}.json".format(subreddit)
 
-def __remove_file__(filename):
+def _remove_file_(filename):
     try:
         os.remove(filename)
         logging.info("Removed {}".format(filename))
     except:
         pass
 
-def get_sql_connect(cred_path="../credentials/localhost/jessica.txt"):
+def get_sql_connect(cred_path="credentials/localhost/jessica.txt"):
     cred = ""
     with open(cred_path) as cfile:
         cred = cfile.read().strip("\n")
     cnx = create_engine(PSQL.format(cred), isolation_level='AUTOCOMMIT')
     return cnx
 
-def write_to_sql(df, table_name, cnx):
+def write_to_sql(df, table_name="preprocessed_posts", cnx=None):
+    if not cnx:
+        cnx = get_sql_connect()
     logging.info('Sample row:')
     logging.info(str(df.sample(1)))
     df.to_sql(table_name, cnx, if_exists='replace', index=False, chunksize=1000)

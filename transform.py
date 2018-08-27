@@ -67,8 +67,6 @@ def transform(observations, ngrams=2, threshold=100, stop_words=None):
     if ngrams > 1:
         observations['process_body'] = _make_ngrams_(data_words_nostops, ngrams, threshold)
         return observations
-    #    return _make_ngrams_(data_words_nostops, ngrams, threshold)
     else:
-    #    return data_words_nostops
         observations['process_body'] = data_words_nostops
         return observations
