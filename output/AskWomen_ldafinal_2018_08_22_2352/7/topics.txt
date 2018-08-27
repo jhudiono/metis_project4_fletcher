@@ -1,0 +1,7 @@
+(0, '0.011*"health" + 0.011*"periods" + 0.010*"awesome" + 0.010*"control" + 0.009*"doctor" + 0.008*"kill" + 0.008*"bear" + 0.008*"period" + 0.008*"due" + 0.008*"recommend"')
+(1, '0.044*"people" + 0.016*"youre" + 0.016*"women" + 0.014*"mean" + 0.012*"theyre" + 0.011*"guy" + 0.011*"men" + 0.010*"many" + 0.008*"thank" + 0.008*"theres"')
+(2, '0.145*"askwomen" + 0.123*"reddit" + 0.045*"question" + 0.028*"action" + 0.027*"act" + 0.026*"reason" + 0.026*"upon" + 0.026*"understand" + 0.026*"click" + 0.025*"give"')
+(3, '0.058*"dog" + 0.019*"love" + 0.019*"watch" + 0.019*"play" + 0.016*"read" + 0.015*"show" + 0.012*"baby" + 0.011*"book" + 0.011*"game" + 0.010*"write"')
+(4, '0.026*"im" + 0.017*"make" + 0.016*"want" + 0.015*"time" + 0.014*"one" + 0.012*"feel" + 0.010*"ive" + 0.010*"much" + 0.009*"work" + 0.009*"even"')
+(5, '0.026*"wear" + 0.019*"body" + 0.016*"dress" + 0.015*"clothe" + 0.014*"lol" + 0.014*"hair" + 0.013*"face" + 0.012*"eye" + 0.011*"short" + 0.010*"beautiful"')
+(6, '0.021*"day" + 0.018*"home" + 0.015*"use" + 0.012*"work" + 0.011*"walk" + 0.011*"buy" + 0.011*"drink" + 0.009*"eat" + 0.009*"days" + 0.009*"night"')

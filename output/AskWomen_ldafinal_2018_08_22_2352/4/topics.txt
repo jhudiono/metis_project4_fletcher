@@ -1,0 +1,4 @@
+(0, '0.019*"im" + 0.012*"want" + 0.011*"make" + 0.011*"time" + 0.011*"people" + 0.010*"one" + 0.009*"feel" + 0.008*"work" + 0.007*"ive" + 0.007*"much"')
+(1, '0.023*"women" + 0.016*"men" + 0.008*"watch" + 0.008*"read" + 0.007*"woman" + 0.007*"play" + 0.006*"book" + 0.006*"game" + 0.006*"show" + 0.005*"write"')
+(2, '0.140*"askwomen" + 0.119*"reddit" + 0.051*"question" + 0.033*"act" + 0.027*"action" + 0.026*"reason" + 0.026*"understand" + 0.025*"upon" + 0.025*"click" + 0.025*"give"')
+(3, '0.020*"dog" + 0.009*"wear" + 0.008*"use" + 0.008*"day" + 0.008*"buy" + 0.008*"home" + 0.007*"eat" + 0.005*"food" + 0.005*"walk" + 0.005*"dress"')

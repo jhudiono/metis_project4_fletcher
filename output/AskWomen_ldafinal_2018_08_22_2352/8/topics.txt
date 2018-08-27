@@ -1,0 +1,8 @@
+(0, '0.056*"people" + 0.022*"women" + 0.015*"men" + 0.015*"many" + 0.012*"mean" + 0.010*"woman" + 0.010*"different" + 0.010*"experience" + 0.008*"theyre" + 0.008*"man"')
+(1, '0.016*"write" + 0.013*"white" + 0.012*"favorite" + 0.012*"god" + 0.010*"damn" + 0.009*"card" + 0.009*"red" + 0.009*"color" + 0.008*"black" + 0.007*"terrify"')
+(2, '0.150*"askwomen" + 0.127*"reddit" + 0.047*"question" + 0.029*"action" + 0.028*"act" + 0.027*"upon" + 0.027*"reason" + 0.027*"give" + 0.027*"click" + 0.026*"understand"')
+(3, '0.027*"im" + 0.018*"make" + 0.017*"want" + 0.016*"time" + 0.015*"one" + 0.013*"feel" + 0.010*"ive" + 0.010*"much" + 0.010*"love" + 0.009*"even"')
+(4, '0.028*"day" + 0.021*"home" + 0.018*"live" + 0.013*"walk" + 0.012*"drink" + 0.011*"watch" + 0.011*"play" + 0.010*"days" + 0.010*"every" + 0.010*"night"')
+(5, '0.035*"wear" + 0.021*"read" + 0.021*"dress" + 0.020*"clothe" + 0.015*"book" + 0.014*"short" + 0.013*"size" + 0.013*"fit" + 0.011*"character" + 0.010*"movie"')
+(6, '0.058*"work" + 0.024*"kid" + 0.018*"job" + 0.013*"pay" + 0.013*"money" + 0.012*"family" + 0.011*"age" + 0.011*"parent" + 0.011*"school" + 0.010*"take"')
+(7, '0.049*"dog" + 0.035*"use" + 0.018*"thank" + 0.017*"eat" + 0.013*"food" + 0.011*"hair" + 0.010*"eye" + 0.009*"hand" + 0.009*"car" + 0.009*"body"')

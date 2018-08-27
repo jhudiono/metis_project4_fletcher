@@ -1,0 +1,1 @@
+Same as ldafinal, but increased iterations and chunksize. Don't use tfidf.
